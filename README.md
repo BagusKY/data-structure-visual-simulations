@@ -1,10 +1,3 @@
-Siap. Aku buatkan README yang **rapi, lengkap, enak dibaca, dan keliatan “niat banget”**—bisa langsung kamu copy ke GitHub tanpa edit besar.
-
----
-
-# 🚀 README.md (VERSI FINAL — PROFESSIONAL & ATTRACTIVE)
-
-```md
 # 🎬 Visual Data Structures Simulator (Python + Tkinter)
 
 > Visualisasi interaktif struktur data dengan animasi real-time untuk membantu memahami konsep secara intuitif.
